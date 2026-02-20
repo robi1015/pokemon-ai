@@ -1,0 +1,51 @@
+{
+  "テツノドクガ": {
+    "hp": 100,
+    "status": "",
+    "alive": true,
+    "tera_used": false,
+    "tera_type": ""
+  },
+  "ハバタクカミ": {
+    "hp": 100,
+    "status": "",
+    "alive": true,
+    "tera_used": false,
+    "tera_type": ""
+  },
+  "イルカマン": {
+    "hp": 100,
+    "status": "",
+    "alive": true,
+    "tera_used": false,
+    "tera_type": ""
+  },
+  "テツノツツミ": {
+    "hp": 100,
+    "status": "",
+    "alive": true,
+    "tera_used": false,
+    "tera_type": ""
+  },
+  "イーユイ": {
+    "hp": 100,
+    "status": "",
+    "alive": true,
+    "tera_used": false,
+    "tera_type": ""
+  },
+  "カイリュー": {
+    "hp": 100,
+    "status": "",
+    "alive": true,
+    "tera_used": false,
+    "tera_type": ""
+  },
+  "フシギソウ": {
+    "hp": 100,
+    "status": "やけど",
+    "alive": true,
+    "tera_used": false,
+    "tera_type": ""
+  }
+}

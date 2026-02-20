@@ -1,0 +1,5 @@
+streamlit
+pillow
+google-generativeai
+google-api-core
+requests>=2.31.0
