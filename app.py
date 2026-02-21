@@ -45,11 +45,4 @@ with st.sidebar:
     else:
         for i in range(1, 7):
             p = team.get(str(i), {}) or {}
-            if p.get("name"):
-                st.markdown(f"**#{i} {p['name']}**  @{p.get('item','--')}")
-
-tab_battle, tab_team = st.tabs(["⚔️ 実戦ナビ", "📝 チーム管理"])
-with tab_battle:
-    render_battle_tab()
-with tab_team:
-    render_team_tab()
+            if 
